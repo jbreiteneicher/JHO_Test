@@ -1,2 +1,3 @@
-# JHO_Test
-JHO DataScience Specialisation
+# JHU_Test
+JHU John Hopkins University
+DataScience Specialisation
